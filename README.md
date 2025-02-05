@@ -1,1 +1,1 @@
-# This is a new readme file which is created in the new folder JUSTDEMO
+# NOT GOOD ENOUGH however its irritating that its not changing 
