@@ -1,1 +1,3 @@
-# NOT GOOD ENOUGH however its irritating that its not changing 
+# Name : Kallapari Sana
+# Stream : Btech - Computer Science
+# Year / Sem : 3rd year / 6th sem
